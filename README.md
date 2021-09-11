@@ -1,4 +1,4 @@
-<img src=".\assets\uskatowice_logo.png" alt="uskatowice_logo" height="200" />
+<img src=".\assets\uskatowice_logo.png" align="center" alt="uskatowice_logo" height="200" />
 
 # 🚀 Real-time Graphics Project
 
