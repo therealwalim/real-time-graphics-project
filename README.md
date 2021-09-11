@@ -11,15 +11,15 @@ This project will be a **Tetris** game, with the possibility of moving the arena
 
 The game Tetris was inspired by the game *Pentominos*, but the principle of this game being very closed consisting in putting the pieces of the puzzle in the right direction in order to constitute a full and closed circuit.
 
-<img src="C:\Users\ASUS\Desktop\University_of_Silesia\RTG\RTG_Final_Project_ECHAIBWALIM\doc\assets\pentominos.jpg" alt="pentominos" style="zoom:33%;" />
+<img src="C:\Users\ASUS\Desktop\University_of_Silesia\RTG\RTG_Final_Project_ECHAIBWALIM\doc\assets\pentominos.jpg" alt="pentominos" height="200px" />
 
 Pajitnov has taken the same concept and used the *Pentominos* pieces to integrate them into a game aligned in a vertical zone where the pieces fall from the top to the bottom.
 
-<img src=".\assets\pentominos_cubes.png" alt="pentominos_cubes" style="zoom:33%;" />
+<img src=".\assets\pentominos_cubes.png" alt="pentominos_cubes" height="150px" />
 
 The first version of the game was released on Electronika 60, but it was on the IBM PC that the game succeeded in being exported and attracting the attention of investors outside the Soviet Union.
 
-<img src=".\assets\tetrisibmpc.gif" alt="tetrisibmpc" style="zoom:120%;" />
+<img src=".\assets\tetrisibmpc.gif" alt="tetrisibmpc" height="250" />
 
 <u>**The aim of the project**</u> is to recreate the **Tetris** game in a context with the same rules as the genuine.
 
