@@ -1,4 +1,6 @@
-<img src=".\assets\uskatowice_logo.png" align="center" alt="uskatowice_logo" height="200" />
+<p align="center">
+  <a href="https://github.com/therealwalim/real-time-graphics-project"><img height="200" src=".\assets\uskatowice_logo.png"></a>
+</p>
 
 # 🚀 Real-time Graphics Project
 
