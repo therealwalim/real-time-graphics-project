@@ -1,4 +1,4 @@
-<img src=".\assets\uskatowice_logo.png" alt="uskatowice_logo" style="zoom:33%;" />
+<img src=".\assets\uskatowice_logo.png" alt="uskatowice_logo" height="200" />
 
 # 🚀 Real-time Graphics Project
 
@@ -204,7 +204,7 @@ Its startup requires the creation of an instance of sound engine, after that it 
 
 #### Class Diagram
 
-![classdiagram-rtg](.\assets\classdiagram-rtg.png)
+<img src=".\assets\classdiagram-rtg.png" alt="tetrisibmpc" height="300" />
 
 ***
 
@@ -214,7 +214,7 @@ Its startup requires the creation of an instance of sound engine, after that it 
 
 ### Control keys
 
-<img src=".\assets\KeyboardInput.png" alt="KeyboardInput" style="zoom:80%;" />
+<img src=".\assets\KeyboardInput.png" alt="KeyboardInput" height="350" />
 
 ***
 
